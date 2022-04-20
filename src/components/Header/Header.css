@@ -1,0 +1,18 @@
+.header {
+  background-color: var(--azul-cobalto);
+  height: 103px;
+  width: 1440px;
+  display: flex;
+  gap: 756px;
+  align-items: center;
+}
+.logo {
+  width: 160px;
+  height: 55px;
+  margin-left: 140px;
+}
+
+.navigation {
+  display: flex;
+  gap: 65.5px;
+}
